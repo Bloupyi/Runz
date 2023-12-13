@@ -1,0 +1,14 @@
+fr\bloup\runz\utils\Player.class
+fr\bloup\runz\commands\RunzCommand.class
+fr\bloup\runz\movements\WallJump.class
+fr\bloup\runz\commands\CommandTabCompleter.class
+fr\bloup\runz\managers\CommandManager.class
+fr\bloup\runz\managers\ListenerManager.class
+fr\bloup\runz\movements\GlassBreaker.class
+fr\bloup\runz\movements\LedgeGrab.class
+fr\bloup\runz\movements\JumpPad.class
+fr\bloup\runz\movements\WallMovement.class
+fr\bloup\runz\utils\Stamina.class
+fr\bloup\runz\movements\Fall.class
+fr\bloup\runz\movements\TopGrab.class
+fr\bloup\runz\Runz.class

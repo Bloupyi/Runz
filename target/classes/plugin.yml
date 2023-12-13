@@ -1,0 +1,7 @@
+name: runz
+version: '1.0'
+main: fr.bloup.runz.Runz
+api-version: '1.19'
+commands:
+  runz:
+    description: "Runz's main command"
